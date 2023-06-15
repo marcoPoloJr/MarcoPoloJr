@@ -1,46 +1,67 @@
 # Olá, Bem vindo(a)!👋
-## Meu nome é Marco Polo e aqui irei apresentar os projetos que desenvolvi ao longo de meus estudos!
+## Meu nome é Marco Polo e aqui irei apresentar alguns projetos!
 ## Sobre mim
-- Moro em Piracicaba/SP
+
+<img align="right" alt="NerdRoom" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"  width="400px" height="300px"/>
+
+
+(Desenvolvimento Web FullStack Jr | React | MySQL | JavaScript | Node.js | TypeScript | Python )
+
+- Moro em Piracicaba/SP  
 - Nerd de carteirinha.
 
-![github intro (1)](https://github.com/marcoPoloJr/MarcoPoloJr/assets/108952088/5d4ca2ef-dc6a-4552-83ee-e68f15eb7ffc)
+<br/>
 
-- Adoro filmes, games, RPG, conversar sobre assuntos aleatórios e claro sair com os amigos.
-- Pai de Pet do Clark, um salsicha com energia para dar e vender.
-- ![clark](https://github.com/marcoPoloJr/MarcoPoloJr/assets/108952088/92a49870-c963-40d2-a837-3b5a397e1044)
-- 💬 Você pode entrar em contato comigo em:
-[![image ](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcoPoloJr/)
-[![image ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcopolojr/)
+Se quiser me conher mais segue minhas midas socias.
+<br/>
+<br/>
+<br/>
+<br/>
+
+## Midias Sociais
+
+<img align="right" alt="NerdRoom" src="https://64.media.tumblr.com/fad698de81abf1f122ea815789e2d757/1ed9c10b867a1f1f-ca/s500x750/7ecc332ca2e0b210140d8f4b1ccfed85b0f7efb2.gifv"  width="500px"/>
+
+💬 Fique a vontade para entrar em contato!
+
+<a href="https://github.com/marcoPoloJr/" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+</a>
+<a href="https://www.linkedin.com/in/marcopolojr/" target="_blank">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
+  <br/>
+  <br/>
+ 
+Ou se preferir, enviar um email:
+
+<a href="mailto: seguros.marcopolo@gmail.com">
+  seguros.marcopolo@gmail.com
+	<img
+			align="center"
+			height="50"
+			src="https://static-00.iconduck.com/assets.00/gmail-icon-509x512-ikquhn8l.png" />
+	</a>
+  <br/>
+  <br/>
+
+Veja meu Curriculum Vitae para mais informações:
+
+<a href="https://github.com/marcoPoloJr/MarcoPoloJr/blob/main/Curriculo%20Marco%20Polo%20(1).pdf" target="_blank">
+  <img
+			align="center"
+			height="50"
+			src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png" />
+ </a> 
+ <br/>
+ <br/>
+
+
+
+
+
 
 ## 🛠 Linguagens e ferramentas:
-- HTML
-- CSS
-- JS
-- REACT
-- NODE.js
-- TS
-- MYSQL
-- DOCKER
-- SEQUELIZE
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoPoloJr&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoPoloJr&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-# Midias Sociais
-[![image ](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcoPoloJr/)
-[![image ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcopolojr/)
-
-<!--
-**marcoPoloJr/MarcoPoloJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
