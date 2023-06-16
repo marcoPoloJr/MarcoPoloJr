@@ -1,10 +1,12 @@
 # Olá, Bem vindo(a)!👋
 ## Meu nome é Marco Polo e aqui irei apresentar alguns projetos!
+<br/>
+<br/>
+
 ## Sobre mim
-
-<img align="right" alt="NerdRoom" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"  width="400px" height="300px"/>
-
-
+<br/>
+<img align="right" alt="NerdRoom" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"  width="300px"/>
+<br/>
 (Desenvolvimento Web FullStack Jr | React | MySQL | JavaScript | Node.js | TypeScript | Python )
 
 - Moro em Piracicaba/SP  
@@ -17,10 +19,11 @@ Se quiser me conher mais segue minhas midas socias.
 <br/>
 <br/>
 <br/>
+<br/>
 
 ## Midias Sociais
 
-<img align="right" alt="NerdRoom" src="https://64.media.tumblr.com/fad698de81abf1f122ea815789e2d757/1ed9c10b867a1f1f-ca/s500x750/7ecc332ca2e0b210140d8f4b1ccfed85b0f7efb2.gifv"  width="400px"/>
+<!-- <img align="right" alt="NerdRoom" src="https://64.media.tumblr.com/fad698de81abf1f122ea815789e2d757/1ed9c10b867a1f1f-ca/s500x750/7ecc332ca2e0b210140d8f4b1ccfed85b0f7efb2.gifv"  width="400px"/> -->
 
 💬 Fique a vontade para entrar em contato!
 
